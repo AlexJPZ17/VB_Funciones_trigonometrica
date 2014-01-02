@@ -1,0 +1,15 @@
+C:\Users\Alex\AppData\Local\Temporary Projects\Función trigonométrica\bin\Debug\Función trigonométrica.exe.config
+E:\Mis Documentos\Projects Visual Studio 2012\Visual Basic\Claces\Forms\AJ Programer\Función trigonométrica\Función trigonométrica\bin\Debug\Función trigonométrica.exe.config
+E:\Mis Documentos\Projects Visual Studio 2012\Visual Basic\Claces\Forms\AJ Programer\Función trigonométrica\Función trigonométrica\bin\Debug\Función trigonométrica.exe
+E:\Mis Documentos\Projects Visual Studio 2012\Visual Basic\Claces\Forms\AJ Programer\Función trigonométrica\Función trigonométrica\bin\Debug\Función trigonométrica.pdb
+E:\Mis Documentos\Projects Visual Studio 2012\Visual Basic\Claces\Forms\AJ Programer\Función trigonométrica\Función trigonométrica\bin\Debug\Función trigonométrica.xml
+E:\Mis Documentos\Projects Visual Studio 2012\Visual Basic\Claces\Forms\AJ Programer\Función trigonométrica\Función trigonométrica\obj\Debug\Función_trigonométrica.Form1.resources
+E:\Mis Documentos\Projects Visual Studio 2012\Visual Basic\Claces\Forms\AJ Programer\Función trigonométrica\Función trigonométrica\obj\Debug\Función_trigonométrica.Resources.resources
+E:\Mis Documentos\Projects Visual Studio 2012\Visual Basic\Claces\Forms\AJ Programer\Función trigonométrica\Función trigonométrica\obj\Debug\Función trigonométrica.vbproj.GenerateResource.Cache
+E:\Mis Documentos\Projects Visual Studio 2012\Visual Basic\Claces\Forms\AJ Programer\Función trigonométrica\Función trigonométrica\obj\Debug\Función trigonométrica.exe
+E:\Mis Documentos\Projects Visual Studio 2012\Visual Basic\Claces\Forms\AJ Programer\Función trigonométrica\Función trigonométrica\obj\Debug\Función trigonométrica.xml
+E:\Mis Documentos\Projects Visual Studio 2012\Visual Basic\Claces\Forms\AJ Programer\Función trigonométrica\Función trigonométrica\obj\Debug\Función trigonométrica.pdb
+D:\Mis Documentos\Projects Visual Studio 2012\Visual Basic\Claces\Forms\AJ Programer\Función trigonométrica\Función trigonométrica\bin\Debug\Función trigonométrica.exe.config
+D:\Mis Documentos\Projects Visual Studio 2012\Visual Basic\Claces\Forms\AJ Programer\Función trigonométrica\Función trigonométrica\obj\Debug\Función trigonométrica.exe
+D:\Mis Documentos\Projects Visual Studio 2012\Visual Basic\Claces\Forms\AJ Programer\Función trigonométrica\Función trigonométrica\obj\Debug\Función trigonométrica.xml
+D:\Mis Documentos\Projects Visual Studio 2012\Visual Basic\Claces\Forms\AJ Programer\Función trigonométrica\Función trigonométrica\obj\Debug\Función trigonométrica.pdb
